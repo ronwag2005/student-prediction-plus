@@ -51,12 +51,15 @@ We used the same features obtained in the Random Forest Regression Case for each
 
 2. Case-Independence: We assumed that the same features selected in the regression case would also yield improved results in the binary and 5-level classification cases.
 
+These assumptions allowed us to obtain sufficiently improved results while substantially reducing computational costs. 
+
 ## Performance vs. Number of Features:
 
 The graphs below plot the cross-validated RMSE against the number of top-ranked features used to train the model. This visualization allowed us to identify the "sweet spot" where the model's performance maximized (RMSE minimized), indicating the optimal number of features to retain.
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-These assumptions allowed us to obtain sufficiently improved results while substantially reducing computational costs. 
+
+
+
 
 
