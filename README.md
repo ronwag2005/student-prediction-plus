@@ -59,10 +59,34 @@ The graphs below plot the cross-validated RMSE against the number of top-ranked 
 
 ![Top Features vs. RF Performance Graph](top_features_graph.png)
 
+Note: The red dotted line in each graph reflects the respective benchmark performances when all features were used in replication.
 
+----------------------------------------------------------------------------------------------------------------------------------
 
+# Data Sources
 
+The two datasets used in this analysis (student-mat.csv and student-por.csv) were sourced from the UCI Machine Learning Repository. They contain student grades, demographic, social, and school-related features.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
+# Repository Index
+
+-📁 student-prediction-plus 
+   -📁 code
+      -📄 Replication - Binary Classification
+      -📄 Replication - 5-Level Classification
+      -📄 Replication - Regression
+      -📄 Improvement and Variable selection - Regression (Mathematics)
+      -📄 Improvement and Variable selection - Regression (Portuguese)
+      -📄 Improvement Binary Classification (Mathematics)
+      -📄 Improvement Binary Classification - (Portuguese)
+      -📄 Improvement 5 Level Classification - (Mathematics)
+      -📄 Improvement 5 Level Classification - (Portuguese)
+   -📁 data
+      -📄 student-mat.csv
+      -📄 student-por.csv
+
+      
 
 
 
