@@ -1,5 +1,5 @@
 # Predicting Secondary School Student Performance: Replication and Improvement
-This repository contains the code and analysis for our project, which replicates and extends the 2008 study by Cortez & Silva, "Using Data Mining to Predict Secondary School Student Performance." The study employed machine learning models to predict the final grades (G3) of secondary school students, utilizing demographic, social, and academic data.
+This repository contains the code and analysis for our project, which replicates and extends the 2008 study by Cortez & Silva, ["Using Data Mining to Predict Secondary School Student Performance."](https://www.researchgate.net/publication/228780408_Using_data_mining_to_predict_secondary_school_student_performance) The study employed machine learning models to predict the final grades (G3) of secondary school students, utilizing demographic, social, and academic data.
 
 Our project builds on their work in two phases:
 
