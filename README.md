@@ -57,7 +57,7 @@ These assumptions allowed us to obtain sufficiently improved results while subst
 
 The graphs below plot the cross-validated RMSE against the number of top-ranked features used to train the model. This visualization allowed us to identify the "sweet spot" where the model's performance maximized (RMSE minimized), indicating the optimal number of features to retain.
 
-![Top Features vs. RF Performance Graph](images/top_features_graph.png)
+![Top Features vs. RF Performance Graph](top_features_graph.png)
 
 
 
