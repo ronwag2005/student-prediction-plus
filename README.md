@@ -71,20 +71,21 @@ The two datasets used in this analysis (student-mat.csv and student-por.csv) wer
 
 # Repository Index
 
--📁 student-prediction-plus 
-   -📁 code
-      -📄 Replication - Binary Classification
-      -📄 Replication - 5-Level Classification
-      -📄 Replication - Regression
-      -📄 Improvement and Variable selection - Regression (Mathematics)
-      -📄 Improvement and Variable selection - Regression (Portuguese)
-      -📄 Improvement Binary Classification (Mathematics)
-      -📄 Improvement Binary Classification - (Portuguese)
-      -📄 Improvement 5 Level Classification - (Mathematics)
-      -📄 Improvement 5 Level Classification - (Portuguese)
-   -📁 data
-      -📄 student-mat.csv
-      -📄 student-por.csv
+- 📂 student-prediction-plus
+  - 📂 code
+    - 📄 Replication - Binary Classification
+    - 📄 Replication - 5-Level Classification
+    - 📄 Replication - Regression
+    - 📄 Improvement and Variable selection - Regression (Mathematics)
+    - 📄 Improvement and Variable selection - Regression (Portuguese)
+    - 📄 Improvement Binary Classification (Mathematics)
+    - 📄 Improvement Binary Classification (Portuguese)
+    - 📄 Improvement 5 Level Classification (Mathematics)
+    - 📄 Improvement 5 Level Classification (Portuguese)
+  - 📂 data
+    - 📄 student-mat.csv
+    - 📄 student-por.csv
+
 
       
 
