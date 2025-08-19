@@ -78,14 +78,14 @@ The two datasets used in this analysis (student-mat.csv and student-por.csv) wer
     - 📄 [Replication - 5-Level Classification](code/Replication_5-Level_Classification.R)
     - 📄 [Replication - Regression](code/Replication_Regression.R)
     - 📄 [Improvement and Variable selection - Regression (Mathematics)](code/Improvement_Regression_and_Variable_Selection_Mathematics.R)
-    - 📄 Improvement and Variable selection - Regression (Portuguese)
-    - 📄 Improvement Binary Classification (Mathematics)
-    - 📄 Improvement Binary Classification (Portuguese)
-    - 📄 Improvement 5 Level Classification (Mathematics)
-    - 📄 Improvement 5 Level Classification (Portuguese)
+    - 📄 [Improvement and Variable selection - Regression (Portuguese)](code/Improvement_Regression_and_Variable_Selection_Portugese.R)
+    - 📄 [Improvement Binary Classification (Mathematics)](code/Improvement_Binary_Classification_Mathematics.R)
+    - 📄 [Improvement Binary Classification (Portuguese)](code/Improvement_Binary_Classification_Portugese.R)
+    - 📄 [Improvement 5 Level Classification (Mathematics)](code/Improvement_5-Level_Classification_Mathematics.R)
+    - 📄 [Improvement 5 Level Classification (Portuguese)](code/Improvement_5-Level_Classification_Portugese.R)
   - 📂 data
-    - 📄 student-mat.csv
-    - 📄 student-por.csv
+    - 📄 [student-mat.csv](data/student-mat.csv)
+    - 📄 [student-por.csv](data/student-por.csv)
    
 --------------------------------------------------------------------------------------------------------------------------------------------
 
