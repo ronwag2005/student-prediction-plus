@@ -7,7 +7,7 @@ Our project builds on their work in two phases:
 
 2. Extension – Implementing systematic feature selection methods to reduce noise, build simpler models, and improve predictive performance in real-world scenarios.
 
-The full analysis and findings are detailed in the accompanying [Final Report](Final_Report.pdf)
+The full analysis and findings are detailed in the accompanying [Final Report](Final_Report.pdf).
 
 
 -------------------------------------------------------------------------------------------------------
@@ -66,7 +66,7 @@ Note: The red dotted line in each graph reflects the respective benchmark perfor
 
 # Data Sources
 
-The two datasets used in this analysis (student-mat.csv and student-por.csv) were sourced from the UCI Machine Learning Repository. They contain student grades, demographic, social, and school-related features.
+The two datasets used in this analysis (student-mat.csv and student-por.csv) were sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance). They contain student grades, demographic, social, and school-related features.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
