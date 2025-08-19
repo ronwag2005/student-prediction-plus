@@ -7,7 +7,8 @@ Our project builds on their work in two phases:
 
 2. Extension – Implementing systematic feature selection methods to reduce noise, build simpler models, and improve predictive performance in real-world scenarios.
 
-The full analysis and findings are detailed in the accompanying Final Report
+The full analysis and findings are detailed in the accompanying [Final Report](Final_Report.pdf)
+
 
 -------------------------------------------------------------------------------------------------------
 
