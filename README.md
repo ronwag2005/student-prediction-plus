@@ -8,3 +8,4 @@ The analysis was conducted in R and is divided into two main phases:
 
 The full analysis and findings are detailed in the accompanying Final Report.
 
+-------------------------------------------------------------------------------------------------------
