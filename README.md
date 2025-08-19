@@ -15,15 +15,15 @@ The full analysis and findings are detailed in the accompanying [Final Report](F
 # Key Findings and Improvements
 The extension work, which focused on the most challenging real-world scenario (Setup C, where no prior grades are available), yielded significant improvements:
 
-1. **Identified Core Predictors:** Using Random Forest-based feature ranking, an optimal subset of **9 core predictors for the Mathematics dataset** and **23 for the Portuguese dataset** was identified.
+**1. Identified Core Predictors:** Using Random Forest-based feature ranking, an optimal subset of **9 core predictors for the Mathematics dataset** and **23 for the Portuguese dataset** was identified.
    
-2. **Improved Model Performance:** Models trained on these refined feature sets consistently performed better, including a **10% lower RMSE in regression for the Random Forest** and **5% increase in accuracy for the SVM classifier** on the 5-level Portuguese classification task.
+**2. Improved Model Performance:** Models trained on these refined feature sets consistently performed better, including a **10% lower RMSE in regression for the Random Forest** and **5% increase in accuracy for the SVM classifier** on the 5-level Portuguese classification task.
    
-3. **Enhanced Simplicity & Interpretability:** For Mathematics, the final model achieved comparable results with **70% fewer features** (9 vs. 30+), making it simpler and easier to interpret.
+**3. Enhanced Simplicity & Interpretability:** For Mathematics, the final model achieved comparable results with **70% fewer features** (9 vs. 30+), making it simpler and easier to interpret.
 
-4. **Additional Performance Metric:** We analysed changes in Precision as an additional performance metric in the Binary Classification Case.
+**4. Additional Performance Metric:** We analysed changes in Precision as an additional performance metric in the Binary Classification Case.
    
-6. **Solving the Precision Problem:** The feature selection process significantly improved **Random Forest Precision** on the Binary Classification task, producing a more reliable predictor.
+**5. Solving the Precision Problem:** The feature selection process significantly improved **Random Forest Precision** on the Binary Classification task, producing a more reliable predictor.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
