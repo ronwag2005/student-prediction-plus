@@ -3,9 +3,9 @@ This repository contains the code and analysis for our project, which **replicat
 
 Our project was conducted in **R** and builds on their work in two phases:
 
-1. Replication – Faithfully reproducing the results of the original study across regression, binary classification, and five-level classification tasks.
+**1. Replication –** Faithfully reproducing the results of the original study across regression, binary classification, and five-level classification tasks.
 
-2. Extension – Implementing systematic **feature selection methods** to reduce noise, build simpler models, and improve predictive performance in real-world scenarios.
+**2. Extension –** Implementing systematic **feature selection methods** to reduce noise, build simpler models, and improve predictive performance in real-world scenarios.
 
 The full analysis and findings are detailed in the accompanying [Final Report](Final_Report.pdf).
 
