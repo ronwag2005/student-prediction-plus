@@ -77,7 +77,7 @@ The two datasets used in this analysis (student-mat.csv and student-por.csv) wer
     - 📄 [Replication - Binary Classification](code/Replication_Binary_Classification.R)
     - 📄 [Replication - 5-Level Classification](code/Replication_5-Level_Classification.R)
     - 📄 [Replication - Regression](code/Replication_Regression.R)
-    - 📄 [Improvement and Variable selection - Regression (Mathematics)](code/Improvement_and_Variable_Selection_Mathematics.R)
+    - 📄 [Improvement and Variable selection - Regression (Mathematics)](code/Improvement_Regression_and_Variable_Selection_Mathematics.R)
     - 📄 Improvement and Variable selection - Regression (Portuguese)
     - 📄 Improvement Binary Classification (Mathematics)
     - 📄 Improvement Binary Classification (Portuguese)
