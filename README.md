@@ -85,6 +85,25 @@ The two datasets used in this analysis (student-mat.csv and student-por.csv) wer
   - 📂 data
     - 📄 student-mat.csv
     - 📄 student-por.csv
+   
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+# How to Run the Code
+
+## Prerequisites:
+
+1. R: Install a recent version (≥ 4.x).
+
+2. R Packages: Install dependencies by running:
+
+```r
+install.packages(c("rminer", "randomForest"))
+library(rminer)
+library(randomForest)
+
+```
+3. ⚠ Note: Ensure that student-mat.csv and student-por.csv are in the R working directory when running the scripts.
+
 
 
       
