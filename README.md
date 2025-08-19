@@ -48,7 +48,14 @@ ranked_features <- names(sorted_importance)
 We used the same features obtained in the Random Forest Regression Case for each subject for SVM, as well as in the binary and 5-level classification cases. In doing so, we made two core assumptions-
 
 1. Model-Independence: We assumed that, due to the robustness of Random Forest (RF) as a model, the same features selected in RF would yield improved results in the SVM model.
+
 2. Case-Independence: We assumed that the same features selected in the regression case would also yield improved results in the binary and 5-level classification cases.
+
+## Performance vs. Number of Features:
+
+The graphs below plot the cross-validated RMSE against the number of top-ranked features used to train the model. This visualization allowed us to identify the "sweet spot" where the model's performance maximized (RMSE minimized), indicating the optimal number of features to retain.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 These assumptions allowed us to obtain sufficiently improved results while substantially reducing computational costs. 
 
