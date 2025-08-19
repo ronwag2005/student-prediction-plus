@@ -103,13 +103,13 @@ library(rminer)
 library(randomForest)
 
 ```
-3. ⚠ Note: Ensure that student-mat.csv and student-por.csv are in the R working directory when running the scripts.
+3. ⚠ Note: Ensure that [student-mat.csv](data/student-mat.csv) and [student-por.csv](data/student-por.csv) are in the R working directory when running the scripts.
 
 ## Steps for execution:
 
-1. Replication Scripts: Run the replication scripts which reproduce the baseline results from the original paper.
+1. Replication Scripts: Run the replication scripts, which reproduce the baseline results from the original paper.
 
-2. Variable Selection: Run Improvement and Variable selection - Regression (Mathematics) and Improvement and Variable selection- Portuguese.R, which perform Random Forest-based feature ranking and search for optimal predictors within the Regression setup.
+2. Variable Selection: Run [Improvement and Variable selection - Regression (Mathematics)](code/Improvement_Regression_and_Variable_Selection_Mathematics.R) and Improvement and [Variable selection and Regression (Portuguese)](code/Improvement_Regression_and_Variable_Selection_Portugese.R), which perform Random Forest-based feature ranking and search for optimal predictors within the Regression setup.
 
 3. Run and evaluate the final, improved models that take the optimal feature sets found in the previous step, for the binary and 5-Level Classification setup.
 
